@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Catalat support
+    url: https://cata.lat/support
+    about: Use the official support page for account, billing and product questions.
+  - name: WhatsApp support
+    url: https://wa.me/5521980345097
+    about: Contact Catalat support through WhatsApp.
+  - name: Security reports
+    url: https://cata.lat/support
+    about: Do not publish sensitive security details in public issues.
