@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://cata.lat"><img src="https://img.shields.io/badge/website-cata.lat-f97316?style=for-the-badge" alt="Website"></a>
   <a href="https://cata.lat/pricing"><img src="https://img.shields.io/badge/free%20trial-7%20days-16a34a?style=for-the-badge" alt="Free trial"></a>
-  <a href="./CHANGELOG.md"><img src="https://img.shields.io/badge/version-v3.0.0-111827?style=for-the-badge" alt="Version"></a>
+  <a href="./CHANGELOG.md"><img src="https://img.shields.io/badge/version-v3.1.0-111827?style=for-the-badge" alt="Version"></a>
   <a href="https://wa.me/5521980345097"><img src="https://img.shields.io/badge/support-WhatsApp-22c55e?style=for-the-badge" alt="Support"></a>
   <a href="https://linkedin.com/company/catalat"><img src="https://img.shields.io/badge/linkedin-Catalat-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
@@ -22,7 +22,7 @@
 
 Catalat is a SaaS platform for **catalog websites**.
 
-It was designed for businesses that need to publish products, vehicles, properties or service catalogs on a **fast public website**, manage everything through a **simple private panel**, and convert visitors through **WhatsApp, contact forms, phone or direct negotiation**.
+It was designed for businesses that need to publish products, vehicles, properties, services, events, pets, food menus, beauty offers or course catalogs on a **fast public website**, manage everything through a **simple private panel**, and convert visitors through **WhatsApp, contact forms, phone or direct negotiation**.
 
 This is not a traditional ecommerce project.
 
@@ -38,15 +38,16 @@ That makes Catalat especially useful for local businesses, sales teams, brokers,
 
 ## Current public release
 
-**Catalat v3.0.0** is the current public product milestone.
+**Catalat v3.1.0** is the current public product milestone.
 
 This stage reflects a product that already combines:
 
 - a multilingual customer panel
 - structured public catalog websites
-- product, vehicle and real-estate demos
+- expanded catalog modes for products, vehicles, real estate, services, events, pets, food, beauty and courses
 - direct-contact conversion flows
 - domain support and controlled publishing
+- SEO indexing controls for public catalog sites
 - public performance proof with strong PageSpeed results
 
 For product updates and release notes, see [CHANGELOG.md](CHANGELOG.md).
@@ -97,6 +98,40 @@ The customer manages the catalog through a private panel with multilingual suppo
       Property-focused public pages with listings, location context and conversion paths.
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://cata.lat/assets/img/marketing/demo-service-home.webp" alt="Service catalog demo" width="100%">
+      <strong>Services</strong><br>
+      Structured pages for service providers that need clear offers, details and lead capture.
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://cata.lat/assets/img/marketing/demo-events-home.webp" alt="Event catalog demo" width="100%">
+      <strong>Events</strong><br>
+      Event and party catalogs with packages, categories and direct contact.
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://cata.lat/assets/img/marketing/demo-food-home.webp" alt="Food catalog demo" width="100%">
+      <strong>Food</strong><br>
+      Menu-style catalogs for food, delivery and local ordering conversations.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://cata.lat/assets/img/marketing/demo-pet-home.webp" alt="Pet catalog demo" width="100%">
+      <strong>Pets</strong><br>
+      Pet and animal listings with profile details, gallery and contact flow.
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://cata.lat/assets/img/marketing/demo-beauty-home.webp" alt="Beauty catalog demo" width="100%">
+      <strong>Beauty</strong><br>
+      Beauty and aesthetics catalogs for services, packages and appointment requests.
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://cata.lat/assets/img/marketing/demo-course-home.webp" alt="Course catalog demo" width="100%">
+      <strong>Courses</strong><br>
+      Course and class catalogs with organized details and direct enrollment interest.
+    </td>
+  </tr>
 </table>
 
 ## What makes Catalat different
@@ -105,7 +140,7 @@ The customer manages the catalog through a private panel with multilingual suppo
   Built for presentation and lead capture, not checkout complexity.
 
 - **Simple admin**
-  Customers can manage items, categories, pages, blog posts, domain settings and contact information without needing a developer for routine changes.
+  Customers can manage items, categories, pages, blog posts, catalog mode, search visibility, brand files, domain settings and contact information without needing a developer for routine changes.
 
 - **Direct conversion**
   Public pages are optimized to move visitors into WhatsApp, direct contact or negotiation flows.
@@ -134,6 +169,10 @@ Catalat public pages are built with speed and technical quality as part of the p
 - vehicle and car showrooms
 - real estate listings
 - party and event catalog websites
+- food menus and local delivery catalogs
+- beauty and aesthetics catalogs
+- course and class catalogs
+- pet and animal catalogs
 - service businesses with contact-led sales
 - businesses that need a clean public presence without a full ecommerce stack
 
@@ -147,6 +186,12 @@ Catalat public pages are built with speed and technical quality as part of the p
 - Product demo: [catalog.cata.lat](https://catalog.cata.lat)
 - Vehicle demo: [auto.cata.lat](https://auto.cata.lat)
 - Real-estate demo: [estate.cata.lat](https://estate.cata.lat)
+- Service demo: [service.cata.lat](https://service.cata.lat)
+- Event demo: [event.cata.lat](https://event.cata.lat)
+- Food demo: [food.cata.lat](https://food.cata.lat)
+- Pet demo: [pet.cata.lat](https://pet.cata.lat)
+- Beauty demo: [beauty.cata.lat](https://beauty.cata.lat)
+- Course demo: [course.cata.lat](https://course.cata.lat)
 
 ## Repository scope
 
