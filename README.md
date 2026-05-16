@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://cata.lat"><img src="https://img.shields.io/badge/website-cata.lat-f97316?style=for-the-badge" alt="Website"></a>
   <a href="https://cata.lat/pricing"><img src="https://img.shields.io/badge/free%20trial-7%20days-16a34a?style=for-the-badge" alt="Free trial"></a>
-  <a href="./CHANGELOG.md"><img src="https://img.shields.io/badge/version-v3.1.0-111827?style=for-the-badge" alt="Version"></a>
+  <a href="./CHANGELOG.md"><img src="https://img.shields.io/badge/version-v3.2.0-111827?style=for-the-badge" alt="Version"></a>
   <a href="https://wa.me/5521980345097"><img src="https://img.shields.io/badge/support-WhatsApp-22c55e?style=for-the-badge" alt="Support"></a>
   <a href="https://linkedin.com/company/catalat"><img src="https://img.shields.io/badge/linkedin-Catalat-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
@@ -38,7 +38,7 @@ That makes Catalat especially useful for local businesses, sales teams, brokers,
 
 ## Current public release
 
-**Catalat v3.1.0** is the current public product milestone.
+**Catalat v3.2.0** is the current public product milestone.
 
 This stage reflects a product that already combines:
 
@@ -47,7 +47,7 @@ This stage reflects a product that already combines:
 - expanded catalog modes for products, vehicles, real estate, services, events, pets, food, beauty and courses
 - direct-contact conversion flows
 - domain support and controlled publishing
-- SEO indexing controls for public catalog sites
+- SEO indexing controls, CTA support and bug-fix releases for public catalog sites
 - public performance proof with strong PageSpeed results
 
 For product updates and release notes, see [CHANGELOG.md](CHANGELOG.md).
