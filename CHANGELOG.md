@@ -4,6 +4,41 @@ All notable public product updates for Catalat should be documented here.
 
 This changelog covers the **public-facing product evolution** and the positioning of the platform. Internal operational details, private infrastructure notes, and sensitive implementation specifics remain outside this repository.
 
+## v3.2.0 - 2026-05-16
+
+### System release
+
+- Registered the current Catalat release as a system changelog focused on implementation, customer panel changes, generated public sites, integrations, bug fixes and technical documentation.
+- Updated the public updates page to avoid mixing product changelog with institutional copywriting changes.
+- Clarified that the public repository tracks product history and public documentation, while implementation details remain in the private codebase.
+
+### Catalog modes and generated sites
+
+- Integrated newer catalog modes into signup, editing, customer panel and generated public sites.
+- Kept the generic mode for businesses that do not fit a specific catalog model.
+- Refined generated public filters so they stay focused on search, price range, category and location where applicable.
+- Added external CTA support for item pages, allowing a customer to link an item to an external purchase, booking or information page without turning Catalat into a full ecommerce platform.
+
+### Customer panel
+
+- Added and refined controls for blog visibility, Google indexing, brand assets, favicon removal, cache refresh and catalog mode configuration.
+- Improved mobile navigation and card organization inside the customer panel.
+- Clarified settings that affect the generated public site, such as index/noindex and public content controls.
+
+### Bug fixes and validation
+
+- Fixed broken-character cases in generated public content and system text.
+- Improved numeric and monetary validation for BRL, USD and EUR formats.
+- Fixed visual issues in long cards, border styles, logo fallbacks and public error pages.
+- Adjusted demo accounts so public demos do not expire or fall into inactive-site error screens.
+- Reviewed 403/404 behavior for public customer sites and Catalat system pages.
+
+### Technical documentation
+
+- Private repository documentation should be updated whenever behavior, maintenance or integrations change.
+- Public release notes should describe user-visible system upgrades without exposing sensitive implementation details.
+
+
 ## v3.1.0 - 2026-05-01
 
 ### Expanded catalog modes
