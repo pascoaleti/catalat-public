@@ -4,6 +4,34 @@ All notable public product updates for Catalat should be documented here.
 
 This changelog covers the **public-facing product evolution** and the positioning of the platform. Internal operational details, private infrastructure notes, and sensitive implementation specifics remain outside this repository.
 
+## v3.3.0 - 2026-05-29
+
+### Customer panel and analytics
+
+- Added first-party customer-panel statistics without requiring Google Analytics.
+- Added views, visitors, contacts, conversion, searches, top items, top posts, traffic sources and device breakdowns.
+- Refined the customer panel navigation and visual polish around cards, spacing, controls and mobile presentation.
+- Improved image-upload workflows with previews and removal before saving across catalog items, blog posts, banners and image areas.
+
+### Public sites and SEO
+
+- Refined generated public-site SEO for search, blog, pages and item pages with cleaner meta descriptions and catalog-mode-aware text.
+- Adjusted structured data so Product schema is emitted only when required commercial signals are available, avoiding critical Search Console warnings for quote-only items.
+- Improved public pagination, search placeholders, contact cards, footer contact details and responsive behavior.
+- Continued improving real-estate catalog behavior with region search, neighborhood categories and more SEO-focused item titles and copy.
+
+### Brand, PWA and appearance controls
+
+- Added more public-site appearance controls for logo text, logo sizing, favicon/app icon behavior, home/menu categories and mobile floating WhatsApp.
+- Improved PWA install behavior so generated sites can use the customer favicon as the app icon and fall back to a Catalat default icon when needed.
+- Refined institutional pages, demos, sitemap spacing, footer organization and multilingual demo routing on the Catalat marketing site.
+
+### Integrations and maintenance
+
+- Prepared Google Business Profile integration in the customer panel with OAuth connection, location selection, content preferences and clearer API quota status messaging.
+- Reinforced internal maintenance hygiene by removing old backup files from the webroot.
+- Stopped rendering saved SMTP passwords into the password field while still allowing customers to replace the saved secret.
+
 ## v3.2.0 - 2026-05-16
 
 ### System release
