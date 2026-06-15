@@ -4,6 +4,16 @@ All notable public product updates for Catalat should be documented here.
 
 This changelog covers the **public-facing product evolution** and the positioning of the platform. Internal operational details, private infrastructure notes, and sensitive implementation specifics remain outside this repository.
 
+## v3.3.1 - 2026-06-15
+
+### Customer panel and public-site refinements
+
+- Added a 24h statistics range to the customer panel so recent activity can be checked without waiting for 7-day reporting.
+- Improved catalog-mode fields for real estate, vehicles and pets with clearer sale/rent/status options and better visitor-facing filters.
+- Added visitor subscription fields for item categories and blog updates, allowing public sites to collect interest around specific content areas.
+- Refined public-site metadata, structured data, sitemap/robots behavior and generated-site SEO hygiene.
+- Continued polishing customer-panel wording, translations, form hints, upload previews and public responsive behavior.
+
 ## v3.3.0 - 2026-05-29
 
 ### Customer panel and analytics
