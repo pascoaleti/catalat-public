@@ -1,0 +1,38 @@
+# Local and environment configuration
+.env
+.env.*
+!.env.example
+local.properties
+keystore.properties
+
+# Android signing and service configuration
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+google-services.json
+service-account*.json
+*credentials*.json
+
+# Android build outputs
+*.aab
+*.apk
+.gradle/
+build/
+**/build/
+
+# Database exports and local data
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db

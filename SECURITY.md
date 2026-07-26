@@ -23,6 +23,10 @@ This public repository is an institutional profile repository. The production Sa
 
 Security reports should focus on the live Catalat product, public website, customer panel, public catalog websites or official infrastructure exposed to customers.
 
+## Repository safeguards
+
+Do not commit production source code, environment files, signing keys, service-account files, API credentials, database exports, customer data, APKs or app bundles to this public repository. Preventive ignore rules are maintained in `.gitignore`, but credentials must never rely on ignore rules as their only protection.
+
 ## Responsible disclosure
 
 We ask that you give us reasonable time to investigate and fix a valid report before public disclosure.

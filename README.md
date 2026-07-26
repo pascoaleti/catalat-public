@@ -14,6 +14,8 @@
   <a href="https://cata.lat"><img src="https://img.shields.io/badge/website-cata.lat-f97316?style=for-the-badge" alt="Website"></a>
   <a href="https://cata.lat/pricing"><img src="https://img.shields.io/badge/free%20trial-7%20days-16a34a?style=for-the-badge" alt="Free trial"></a>
   <a href="./CHANGELOG.md"><img src="https://img.shields.io/badge/version-v3.3.1-111827?style=for-the-badge" alt="Version"></a>
+  <a href="./TECHNOLOGY.md"><img src="https://img.shields.io/badge/Android-native-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Native Android app"></a>
+  <a href="./TECHNOLOGY.md"><img src="https://img.shields.io/badge/language-Java%2017-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17"></a>
   <a href="https://wa.me/5521980345097"><img src="https://img.shields.io/badge/support-WhatsApp-22c55e?style=for-the-badge" alt="Support"></a>
   <a href="https://linkedin.com/company/catalat"><img src="https://img.shields.io/badge/linkedin-Catalat-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
 </p>
@@ -54,6 +56,12 @@ This stage reflects a product that already combines:
 - public performance proof with strong PageSpeed results
 
 For product updates and release notes, see [CHANGELOG.md](CHANGELOG.md).
+
+## Android technology
+
+The Catalat app is a **native Android application developed primarily in Java 17**, using the Android SDK, AndroidX and Gradle. It currently targets **Android 16 / API 36** while retaining compatibility from API 21.
+
+See [TECHNOLOGY.md](TECHNOLOGY.md) for the public technology summary and repository security boundary.
 
 ## Why it exists
 
