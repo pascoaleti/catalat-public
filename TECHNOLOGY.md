@@ -18,3 +18,5 @@ The app uses native Android components and communicates with the Catalat platfor
 This repository publishes institutional and product documentation only. Production source code, signing keys, service credentials, environment files, customer data and infrastructure configuration remain private.
 
 The technology information above identifies the production Android stack without exposing implementation details that would weaken product or customer security.
+
+The Java declaration under `technology/android` is non-production metadata used only to expose the verified public technology stack to GitHub Linguist.
