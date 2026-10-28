@@ -1,8 +1,8 @@
 # Catalat
 
 <p align="center">
-  <a href="https://cata.lat">
-    <img src="https://cata.lat/assets/img/pwa-192.png" alt="Catalat logo" width="96" height="96">
+  <a href="https://catalat.com">
+    <img src="https://catalat.com/assets/img/pwa-192.png" alt="Catalat logo" width="96" height="96">
   </a>
 </p>
 
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://cata.lat"><img src="https://img.shields.io/badge/website-cata.lat-f97316?style=for-the-badge" alt="Website"></a>
-  <a href="https://cata.lat/pricing"><img src="https://img.shields.io/badge/free%20trial-7%20days-16a34a?style=for-the-badge" alt="Free trial"></a>
+  <a href="https://catalat.com"><img src="https://img.shields.io/badge/website-cata.lat-f97316?style=for-the-badge" alt="Website"></a>
+  <a href="https://catalat.com/pricing"><img src="https://img.shields.io/badge/free%20trial-7%20days-16a34a?style=for-the-badge" alt="Free trial"></a>
   <a href="./CHANGELOG.md"><img src="https://img.shields.io/badge/version-v3.3.1-111827?style=for-the-badge" alt="Version"></a>
   <a href="./TECHNOLOGY.md"><img src="https://img.shields.io/badge/Android-native-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Native Android app"></a>
   <a href="./TECHNOLOGY.md"><img src="https://img.shields.io/badge/language-Java%2017-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17"></a>
@@ -86,7 +86,7 @@ Catalat exists to solve exactly that.
 The customer manages the catalog through a private panel with multilingual support, public-site status, content shortcuts and operational controls.
 
 <p align="center">
-  <img src="https://cata.lat/assets/img/marketing/client-panel-home-en.png" alt="Catalat client panel" width="100%">
+  <img src="https://catalat.com/assets/img/marketing/client-panel-home-en.png" alt="Catalat client panel" width="100%">
 </p>
 
 ### Public catalog examples
@@ -94,51 +94,51 @@ The customer manages the catalog through a private panel with multilingual suppo
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://cata.lat/assets/img/marketing/demo-catalog-home.webp" alt="Product catalog demo" width="100%">
+      <img src="https://catalat.com/assets/img/marketing/demo-catalog-home.webp" alt="Product catalog demo" width="100%">
       <strong>Products</strong><br>
       Catalog websites for businesses that need categories, item pages, content pages and direct contact.
     </td>
     <td width="33%" valign="top">
-      <img src="https://cata.lat/assets/img/marketing/demo-auto-home.webp" alt="Vehicle catalog demo" width="100%">
+      <img src="https://catalat.com/assets/img/marketing/demo-auto-home.webp" alt="Vehicle catalog demo" width="100%">
       <strong>Vehicles</strong><br>
       Public showroom structure with filters, listings and lead-ready item pages.
     </td>
     <td width="33%" valign="top">
-      <img src="https://cata.lat/assets/img/marketing/demo-estate-home.webp" alt="Real estate catalog demo" width="100%">
+      <img src="https://catalat.com/assets/img/marketing/demo-estate-home.webp" alt="Real estate catalog demo" width="100%">
       <strong>Real estate</strong><br>
       Property-focused public pages with listings, location context and conversion paths.
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://cata.lat/assets/img/marketing/demo-service-home.webp" alt="Service catalog demo" width="100%">
+      <img src="https://catalat.com/assets/img/marketing/demo-service-home.webp" alt="Service catalog demo" width="100%">
       <strong>Services</strong><br>
       Structured pages for service providers that need clear offers, details and lead capture.
     </td>
     <td width="33%" valign="top">
-      <img src="https://cata.lat/assets/img/marketing/demo-events-home.webp" alt="Event catalog demo" width="100%">
+      <img src="https://catalat.com/assets/img/marketing/demo-events-home.webp" alt="Event catalog demo" width="100%">
       <strong>Events</strong><br>
       Event and party catalogs with packages, categories and direct contact.
     </td>
     <td width="33%" valign="top">
-      <img src="https://cata.lat/assets/img/marketing/demo-food-home.webp" alt="Food catalog demo" width="100%">
+      <img src="https://catalat.com/assets/img/marketing/demo-food-home.webp" alt="Food catalog demo" width="100%">
       <strong>Food</strong><br>
       Menu-style catalogs for food, delivery and local ordering conversations.
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://cata.lat/assets/img/marketing/demo-pet-home.webp" alt="Pet catalog demo" width="100%">
+      <img src="https://catalat.com/assets/img/marketing/demo-pet-home.webp" alt="Pet catalog demo" width="100%">
       <strong>Pets</strong><br>
       Pet and animal listings with profile details, gallery and contact flow.
     </td>
     <td width="33%" valign="top">
-      <img src="https://cata.lat/assets/img/marketing/demo-beauty-home.webp" alt="Beauty catalog demo" width="100%">
+      <img src="https://catalat.com/assets/img/marketing/demo-beauty-home.webp" alt="Beauty catalog demo" width="100%">
       <strong>Beauty</strong><br>
       Beauty and aesthetics catalogs for services, packages and appointment requests.
     </td>
     <td width="33%" valign="top">
-      <img src="https://cata.lat/assets/img/marketing/demo-course-home.webp" alt="Course catalog demo" width="100%">
+      <img src="https://catalat.com/assets/img/marketing/demo-course-home.webp" alt="Course catalog demo" width="100%">
       <strong>Courses</strong><br>
       Course and class catalogs with organized details and direct enrollment interest.
     </td>
@@ -170,8 +170,8 @@ The customer manages the catalog through a private panel with multilingual suppo
 Catalat public pages are built with speed and technical quality as part of the product value, not as an afterthought.
 
 <p align="center">
-  <img src="https://cata.lat/assets/img/marketing/pagespeed-desktop-100.png" alt="Desktop PageSpeed 100 proof" width="49%">
-  <img src="https://cata.lat/assets/img/marketing/pagespeed-mobile-100.png" alt="Mobile PageSpeed 100 proof" width="49%">
+  <img src="https://catalat.com/assets/img/marketing/pagespeed-desktop-100.png" alt="Desktop PageSpeed 100 proof" width="49%">
+  <img src="https://catalat.com/assets/img/marketing/pagespeed-mobile-100.png" alt="Mobile PageSpeed 100 proof" width="49%">
 </p>
 
 ## Ideal use cases
@@ -189,20 +189,20 @@ Catalat public pages are built with speed and technical quality as part of the p
 
 ## Public links
 
-- Product website: [cata.lat](https://cata.lat)
-- Pricing: [cata.lat/pricing](https://cata.lat/pricing)
-- FAQ: [cata.lat/faq](https://cata.lat/faq)
-- Support: [cata.lat/support](https://cata.lat/support)
+- Product website: [catalat](https://catalat.com)
+- Pricing: [catalat.com/pricing](https://catalat.com/pricing)
+- FAQ: [catalat.com/faq](https://catatalat.com/faq)
+- Support: [catalat.com/support](https://catalat.com/support)
 - Release notes: [CHANGELOG.md](CHANGELOG.md)
-- Product demo: [catalog.cata.lat](https://catalog.cata.lat)
-- Vehicle demo: [auto.cata.lat](https://auto.cata.lat)
-- Real-estate demo: [estate.cata.lat](https://estate.cata.lat)
-- Service demo: [service.cata.lat](https://service.cata.lat)
-- Event demo: [event.cata.lat](https://event.cata.lat)
-- Food demo: [food.cata.lat](https://food.cata.lat)
-- Pet demo: [pet.cata.lat](https://pet.cata.lat)
-- Beauty demo: [beauty.cata.lat](https://beauty.cata.lat)
-- Course demo: [course.cata.lat](https://course.cata.lat)
+- Product demo: [catalog.catalat.com](https://catalog.catalat.com)
+- Vehicle demo: [auto.catalat.com](https://auto.catalat.com)
+- Real-estate demo: [estate.catalat.com](https://estate.catalat.com)
+- Service demo: [service.catalat.com](https://service.catalat.com)
+- Event demo: [event.catalat.com](https://event.catalat.com)
+- Food demo: [food.catalat.com](https://food.catalat.com)
+- Pet demo: [pet.catalat.com](https://pet.catalat.com)
+- Beauty demo: [beauty.catalat.com](https://beauty.catalat.com)
+- Course demo: [course.catalat.com](https://course.catalat.com)
 
 ## Repository scope
 
@@ -243,7 +243,7 @@ If you understand catalog-led sales and see room to help Catalat grow, feel free
 
 ## Contact
 
-- Website: [https://cata.lat](https://cata.lat)
+- Website: [https://catalat.com](https://catalat.com)
 - LinkedIn: [https://linkedin.com/company/catalat](https://linkedin.com/company/catalat)
 - WhatsApp: [https://wa.me/5521980345097](https://wa.me/5521980345097)
 
